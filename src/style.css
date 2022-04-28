@@ -14,14 +14,25 @@ body {
     background: rgb(68, 68, 68);
     color: rgb(255, 255, 255);
     border: 3px solid rgb(88, 88, 88);
+    line-height: 25px;
+    height: 25px;
     text-align: center;
     font-size: 25px;
 }
 
 #SubTop {
-    font-size: 10px;
+    font-size: 15px;
+    height: 10px;
+    line-height: 0px;
+    text-align: center;
 }
 
 #Main {
     font-size: 20px;
+}
+
+#SubPg1, #SubPg2, #SubPg3, #SubPg4, #SubPg5 {
+    inline-size: auto;
+    width: 95px;
+    height: 95px;
 }
