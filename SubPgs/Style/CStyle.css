@@ -1,3 +1,9 @@
 #Top {
   font-size: 20px
 }
+.CodeBlock {
+  color: green;
+}
+#Para2, #Para2Code, #Para2Cont {
+  inset-inline: 10px;
+}
