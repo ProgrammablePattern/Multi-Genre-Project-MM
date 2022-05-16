@@ -31,8 +31,15 @@ body {
     font-size: 20px;
 }
 
+.inlines {
+    inset-inline: auto;
+}
+
+#navtxt {
+    text-align: center;
+}
+
 #SubPg1, #SubPg2, #SubPg3, #SubPg4, #SubPg5 {
-    inline-size: auto;
     width: 95px;
     height: 95px;
 }
