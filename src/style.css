@@ -43,6 +43,16 @@ body {
     height: 95px;
 }
 
+.inlines3 {
+    inset-inline: auto;
+    width: 95px;
+    height: 95px;
+}
+
 #navtxt {
     text-align: center;
+}
+
+#smol {
+    font-size: medium;
 }
