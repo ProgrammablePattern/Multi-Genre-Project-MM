@@ -37,6 +37,16 @@ body {
     height: 95px;
 }
 
+#ImgSize {
+    width: 80px;
+    height: 85px;
+}
+
+#SubPg14 {
+    width: 93px;
+    height: 95px;
+}
+
 .inlines2 {
     inset-inline: auto;
     width: 95px;
