@@ -59,6 +59,10 @@ body {
     height: 95px;
 }
 
+#CenterMe {
+    text-align: center;
+}
+
 #navtxt {
     text-align: center;
 }
@@ -72,6 +76,11 @@ body {
     font-size: medium;
 }
 
-#FinalButtonButton {
+#FinalButtonCenter {
     text-align: center;
+}
+
+#FinalButtonButton {
+    height: 100px;
+    width: 100px;
 }
