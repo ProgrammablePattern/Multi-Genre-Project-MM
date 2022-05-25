@@ -31,5 +31,5 @@ button8.onmouseout(button8.style.width = "95px", button.style.height = "95px");
 button9.onmouseover(button9.style.width = "100px", button9.style.height = "100px");
 button9.onmouseout(button9.style.width = "95px", button9.style.height = "95px");
 
-FinalButton.onmouseover(FinalButton.style.width = "100px", FinalButton.style.height = "100px");
-FinalButton.onmouseout(FinalButton.style.width = "95px", FinalButton.style.height = "95px");
+FinalButton.onmouseover(FinalButton.style.width = "105px", FinalButton.style.height = "105px");
+FinalButton.onmouseout(FinalButton.style.width = "100px", FinalButton.style.height = "100px");
