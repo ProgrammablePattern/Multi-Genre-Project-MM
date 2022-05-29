@@ -31,3 +31,18 @@ body {
     background-color: gray;
     border: 3px solid silver;
 }
+
+#Para2 {
+    background-color: gray;
+    border: 3px solid silver;
+}
+
+#book {
+    border: 5px solid lightgray;
+    width: 200px;
+    height: 250px;
+}
+
+#BookDiv {
+    text-align: center;
+}
