@@ -14,7 +14,7 @@ body {
     text-align: center;
     background-color: silver;
     border: 3px solid lightgray;
-    font-size: large;
+    /* font-size: large; */
 }
 
 #info {
@@ -25,4 +25,9 @@ body {
 #SubInfo {
     text-align: center;
     margin: 3px;
+}
+
+#Para1 {
+    background-color: gray;
+    border: 3px solid silver;
 }
