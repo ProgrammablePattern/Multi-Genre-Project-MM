@@ -16,3 +16,14 @@ body {
   border: 3px solid lightgray;
   /* font-size: large; */
 }
+
+#Title {
+  text-align: center;
+  background-color: silver;
+  border: 3px solid lightgray;
+}
+
+#Para1, #Para2 {
+  background-color: silver;
+  border: 3px solid lightgray;
+}
