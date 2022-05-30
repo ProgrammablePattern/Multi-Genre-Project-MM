@@ -1,9 +1,18 @@
-#Top {
-  font-size: 20px
+html {
+  background-color: #000;
 }
-.CodeBlock {
-  color: green;
+
+body {
+  width: 500px;
+  background: rgb(59, 59, 59);
+  border: 5px solid rgb(112, 112, 112);
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
 }
-#Para2, #Para2Code, #Para2Cont {
-  inset-inline: auto;
+
+#Title {
+  text-align: center;
+  background-color: silver;
+  border: 3px solid lightgray;
+  /* font-size: large; */
 }
