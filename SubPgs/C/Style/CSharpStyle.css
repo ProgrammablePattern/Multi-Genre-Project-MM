@@ -16,7 +16,15 @@ body {
     border: 3px solid lightgray;
 }
 
-#Para1 {
+#Para1, #Para2 {
     background-color: silver;
     border: 3px solid lightgray;
+}
+
+#Andy {
+    text-align: center;
+}
+
+#AndyImg {
+    border: 5px solid gray;
 }
