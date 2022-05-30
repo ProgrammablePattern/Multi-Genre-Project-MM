@@ -46,3 +46,13 @@ body {
 #BookDiv {
     text-align: center;
 }
+
+#Center {
+    text-align: center;
+}
+
+#MainPg {
+    width: 60;
+    height: 30;
+    font-size: small;
+}

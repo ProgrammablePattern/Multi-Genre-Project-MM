@@ -47,3 +47,13 @@ body {
 .center {
     text-align: center;
 }
+
+#CenterButton {
+    text-align: center;
+    padding-top: 5px;
+}
+
+#MainPg {
+    width: 60px;
+    height: 30px;
+}

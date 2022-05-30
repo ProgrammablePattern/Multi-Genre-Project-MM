@@ -84,8 +84,20 @@ body {
 }
 
 #FinalButtonButton {
-    height: 100px;
-    width: 100px;
+    height: 105px;
+    width: 105px;
     border: 0px;
     background-color: rgba(0, 0, 0, 0);
+}
+
+#FinalButtonButtonImg {
+    height: 105px;
+    width: 95px;
+}
+
+.MGP {
+    inset-inline: auto;
+    text-align: center;
+    height: 80px;
+    width: 80px;
 }
