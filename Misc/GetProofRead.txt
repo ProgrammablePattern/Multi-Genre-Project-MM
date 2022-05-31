@@ -1,3 +1,3 @@
 Objective-C (Self Proof Read 1st)
 C# (Self Proof Read 1st)
-Python (Self Proof Read 1st)
+Pyton (Self Proof Read 1st)
