@@ -37,17 +37,13 @@ body {
     border: 3px solid silver;
 }
 
-#book {
+#ImgSize {
     border: 5px solid lightgray;
     width: 200px;
     height: 250px;
 }
 
-#BookDiv {
-    text-align: center;
-}
-
-#Center {
+.Center {
     text-align: center;
 }
 
