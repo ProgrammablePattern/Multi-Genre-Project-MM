@@ -1,0 +1,43 @@
+html {
+    background-color: #000;
+}
+
+body {
+    width: 500px;
+    background: rgb(59, 59, 59);
+    border: 5px solid rgb(112, 112, 112);
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+#Title {
+    text-align: center;
+    background-color: silver;
+    border: 3px solid lightgray;
+    /* font-size: large; */
+}
+
+#Para1, #Para2 {
+    background-color: silver;
+    border: 3px solid lightgray;
+}
+
+#MainPg {
+    width: 60;
+    height: 30;
+    font-size: small;
+}
+
+#Center {
+    text-align: center;
+}
+
+#ImgSize {
+    border: 5px solid lightgray;
+    width: 200px;
+    height: 250px;
+}
+
+.Inline {
+    inset-inline: auto;
+}

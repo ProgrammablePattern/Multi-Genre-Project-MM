@@ -17,13 +17,17 @@ body {
   /* font-size: large; */
 }
 
-#Title {
-  text-align: center;
+#Para1, #Para2 {
   background-color: silver;
   border: 3px solid lightgray;
 }
 
-#Para1, #Para2 {
-  background-color: silver;
-  border: 3px solid lightgray;
+#MainPg {
+  width: 60;
+  height: 30;
+  font-size: small;
+}
+
+#Center {
+  text-align: center;
 }
