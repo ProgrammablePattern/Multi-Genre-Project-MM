@@ -1,3 +1,4 @@
-# dont read me lmao
-# Why did you do me like that?
-# i cant belive you would do this to me
+# How to Download
+1st Click on Code (Green Button)
+2nd Click Download Zip
+3rd Open MainPg.html
